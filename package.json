@@ -1,0 +1,15 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev2": "node https-localhost.js",
+    "dev1": "node http-localhost.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type":"module"
+}
